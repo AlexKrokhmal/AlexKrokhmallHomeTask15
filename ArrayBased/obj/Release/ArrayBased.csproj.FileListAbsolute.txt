@@ -1,0 +1,7 @@
+E:\Programming\HomeTasks\HomeTask14\ArrayBased\bin\Release\ArrayBased.dll
+E:\Programming\HomeTasks\HomeTask14\ArrayBased\bin\Release\ArrayBased.pdb
+E:\Programming\HomeTasks\HomeTask14\ArrayBased\bin\Release\Common.dll
+E:\Programming\HomeTasks\HomeTask14\ArrayBased\bin\Release\Common.pdb
+E:\Programming\HomeTasks\HomeTask14\ArrayBased\obj\Release\ArrayBased.csprojResolveAssemblyReference.cache
+E:\Programming\HomeTasks\HomeTask14\ArrayBased\obj\Release\ArrayBased.dll
+E:\Programming\HomeTasks\HomeTask14\ArrayBased\obj\Release\ArrayBased.pdb

@@ -1,0 +1,7 @@
+E:\Programming\HomeTasks\HomeTask14\DynamicArrayBased\bin\Release\DynamicArrayBased.dll
+E:\Programming\HomeTasks\HomeTask14\DynamicArrayBased\bin\Release\DynamicArrayBased.pdb
+E:\Programming\HomeTasks\HomeTask14\DynamicArrayBased\bin\Release\Common.dll
+E:\Programming\HomeTasks\HomeTask14\DynamicArrayBased\bin\Release\Common.pdb
+E:\Programming\HomeTasks\HomeTask14\DynamicArrayBased\obj\Release\DynamicArrayBased.csprojResolveAssemblyReference.cache
+E:\Programming\HomeTasks\HomeTask14\DynamicArrayBased\obj\Release\DynamicArrayBased.dll
+E:\Programming\HomeTasks\HomeTask14\DynamicArrayBased\obj\Release\DynamicArrayBased.pdb

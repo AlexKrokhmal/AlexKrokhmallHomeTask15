@@ -1,0 +1,17 @@
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Release\HomeTask14.exe.config
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Release\HomeTask14.exe
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Release\HomeTask14.pdb
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Release\ArrayBased.dll
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Release\DynamicArrayBased.dll
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Release\LinkedListBased.dll
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Release\Common.dll
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Release\ArrayBased.pdb
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Release\DynamicArrayBased.pdb
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Release\LinkedListBased.pdb
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Release\Common.pdb
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\obj\Release\HomeTask14.csprojResolveAssemblyReference.cache
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\obj\Release\HomeTask14.mainForm.resources
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\obj\Release\HomeTask14.Properties.Resources.resources
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\obj\Release\HomeTask14.csproj.GenerateResource.Cache
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\obj\Release\HomeTask14.exe
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\obj\Release\HomeTask14.pdb

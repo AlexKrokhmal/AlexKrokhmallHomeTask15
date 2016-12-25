@@ -1,0 +1,7 @@
+E:\Programming\HomeTasks\HomeTask14\LinkedListBased\bin\Debug\LinkedListBased.dll
+E:\Programming\HomeTasks\HomeTask14\LinkedListBased\bin\Debug\LinkedListBased.pdb
+E:\Programming\HomeTasks\HomeTask14\LinkedListBased\bin\Debug\Common.dll
+E:\Programming\HomeTasks\HomeTask14\LinkedListBased\bin\Debug\Common.pdb
+E:\Programming\HomeTasks\HomeTask14\LinkedListBased\obj\Debug\LinkedListBased.csprojResolveAssemblyReference.cache
+E:\Programming\HomeTasks\HomeTask14\LinkedListBased\obj\Debug\LinkedListBased.dll
+E:\Programming\HomeTasks\HomeTask14\LinkedListBased\obj\Debug\LinkedListBased.pdb

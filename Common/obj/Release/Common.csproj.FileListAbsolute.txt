@@ -1,0 +1,4 @@
+E:\Programming\HomeTasks\HomeTask14\Common\bin\Release\Common.dll
+E:\Programming\HomeTasks\HomeTask14\Common\bin\Release\Common.pdb
+E:\Programming\HomeTasks\HomeTask14\Common\obj\Release\Common.dll
+E:\Programming\HomeTasks\HomeTask14\Common\obj\Release\Common.pdb

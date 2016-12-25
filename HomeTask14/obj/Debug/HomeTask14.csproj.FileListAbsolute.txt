@@ -1,0 +1,20 @@
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Debug\HomeTask14.exe.config
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Debug\HomeTask14.exe
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Debug\HomeTask14.pdb
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\obj\Debug\HomeTask14.Properties.Resources.resources
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\obj\Debug\HomeTask14.csproj.GenerateResource.Cache
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\obj\Debug\HomeTask14.exe
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\obj\Debug\HomeTask14.pdb
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\obj\Debug\HomeTask14.mainForm.resources
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Debug\ArrayBased.dll
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Debug\Common.dll
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Debug\ArrayBased.pdb
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Debug\Common.pdb
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\obj\Debug\HomeTask14.csprojResolveAssemblyReference.cache
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Debug\DynamicArrayBased.dll
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Debug\DynamicArrayBased.pdb
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Debug\LinkedListBased.dll
+E:\Programming\HomeTasks\HomeTask14\HomeTask14\bin\Debug\LinkedListBased.pdb
+E:\Programming\C# NICE\2nd try\HomeTask14\HomeTask14\bin\Debug\HomeTask14.exe.config
+E:\Programming\C# NICE\2nd try\HomeTask14\HomeTask14\obj\Debug\HomeTask14.exe
+E:\Programming\C# NICE\2nd try\HomeTask14\HomeTask14\obj\Debug\HomeTask14.pdb
